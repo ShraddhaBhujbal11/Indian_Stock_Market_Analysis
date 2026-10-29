@@ -89,6 +89,21 @@ Indian-Stock-Market-Return-Prediction/
 - **RMSE:** Penalizes larger prediction errors more heavily.
 - **Directional Accuracy:** Measures how often the predicted return direction matches the actual direction.
 
+  <img width="959" height="539" alt="Screenshot 2026-10-15 191723" src="https://github.com/user-attachments/assets/bcd2962a-13f0-459d-ae0b-d02a7958bfbb" />
+
+  <img width="503" height="473" alt="Screenshot 2026-10-15 191804" src="https://github.com/user-attachments/assets/de2cc802-cff5-454f-82c6-659bc314439d" />
+
+  <img width="833" height="476" alt="Screenshot 2026-10-15 191814" src="https://github.com/user-attachments/assets/d5343bf5-a91e-4d5b-a06e-8886968b719f" />
+
+  <img width="754" height="445" alt="Screenshot 2026-10-15 192036" src="https://github.com/user-attachments/assets/8564915b-b3af-428f-9a78-71563b6189e3" />
+
+  <img width="509" height="442" alt="Screenshot 2026-10-15 192011" src="https://github.com/user-attachments/assets/83ef2546-27c7-438c-91b7-2a6f2fa4a550" />
+
+
+
+
+
+
 
 ## ⚠️ Limitations
 
